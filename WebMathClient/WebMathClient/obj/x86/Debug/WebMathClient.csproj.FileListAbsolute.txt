@@ -1,0 +1,9 @@
+c:\users\stan\documents\visual studio 2010\Projects\WebMathClient\WebMathClient\bin\Debug\WebMathClient.exe.config
+c:\users\stan\documents\visual studio 2010\Projects\WebMathClient\WebMathClient\bin\Debug\WebMathClient.exe
+c:\users\stan\documents\visual studio 2010\Projects\WebMathClient\WebMathClient\bin\Debug\WebMathClient.pdb
+c:\users\stan\documents\visual studio 2010\Projects\WebMathClient\WebMathClient\obj\x86\Debug\WebMathClient.Form1.resources
+c:\users\stan\documents\visual studio 2010\Projects\WebMathClient\WebMathClient\obj\x86\Debug\WebMathClient.Properties.Resources.resources
+c:\users\stan\documents\visual studio 2010\Projects\WebMathClient\WebMathClient\obj\x86\Debug\WebMathClient.csproj.GenerateResource.Cache
+c:\users\stan\documents\visual studio 2010\Projects\WebMathClient\WebMathClient\obj\x86\Debug\WebMathClient.exe
+c:\users\stan\documents\visual studio 2010\Projects\WebMathClient\WebMathClient\obj\x86\Debug\WebMathClient.pdb
+C:\Users\Stan\documents\visual studio 2010\Projects\WebMathClient\WebMathClient\obj\x86\Debug\WebMathClient.csprojResolveAssemblyReference.cache
